@@ -1,0 +1,18 @@
+*{
+    margin-top: 10px;
+}
+#head1{
+        text-transform: capitalize;
+    
+
+}
+#email{
+    margin-top: 10px;
+}
+
+#role{
+    margin-top: 10px;
+}
+#comment{
+    resize: none;
+}
